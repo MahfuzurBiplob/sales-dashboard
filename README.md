@@ -2,7 +2,7 @@
 
 This project is based on AdventureWorks dataset.
 
-##Dashboard Preview
+## Dashboard Preview
 ![Sales Dashboard] (sales_dashboard.png)
 ## 📊 Project Overview
 This dashboard analyzes:
