@@ -4,7 +4,7 @@ This project is based on AdventureWorks dataset.
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](sales_dashboard_overview.png)
+![Sales Dashboard](Sale Overview Dashboard.PNG)
 ## 📊 Project Overview
 This dashboard analyzes:
 - Sales performance
